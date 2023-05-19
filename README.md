@@ -1,5 +1,5 @@
 # Final-Year-Project-Time-Series-Forecasting
-Final year Project
+Table for dataset pre-processing
  | Files  | Content | Stage Deliverable |
 | ------------- | ------------- | ------------- |
 | data.csv  | Raw stock price data in CSV format|Data Collection  |
